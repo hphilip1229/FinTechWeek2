@@ -1,0 +1,18 @@
+.dehaze {
+    text-align: left;
+}
+
+/*body {*/
+/*    background-image: url("https://www.goldmansachs.com/homepage/2016/multimedia/gs-at-150-1400x500.jpg");*/
+/*}*/
+
+.text-block {
+  position: absolute;
+  font-family: times;
+  text-align: center;
+  bottom: 150px;
+  right: 200px;
+  color: white;
+  padding-left:100px;
+  padding-right: 100px;
+}
